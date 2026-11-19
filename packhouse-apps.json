@@ -14,7 +14,7 @@
         "en": "download files faster and for free",
         "ar": "حمل الملفات بسرعة  و سهولة مجانا"
       },
-      "author": "abdelilah el-baroudi",
+      "author": "albaroudiabdelilah92@gmail.com",
       "license": "MIT",
       "tags": [
         "cli"
@@ -22,7 +22,7 @@
       "source": {
         "type": "tarball",
         "url": "https://github.com/abdelilah1223/packhouse-catalog/releases/download/packhouse-godownloader-v1.0.0/godownloader-1.0.0.tar.gz",
-        "sha256": "d50f50cf74e7137222db3a47218390ee13639af31bb124254b226874b30acfac",
+        "sha256": "ee0e5ed737c17b2793ce76ba04e0e7a111302c8b0e4f4e18dc25b718da74e470",
         "approxSize": 129592629
       },
       "install": {
