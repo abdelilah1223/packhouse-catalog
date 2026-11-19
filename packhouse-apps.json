@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "name": "My Packhouse Apps",
+    "updated": "2026-11-19"
+  },
+  "apps": [
+    {
+      "id": "godownloader",
+      "name": "godownloader",
+      "version": "1.0.0",
+      "language": "go",
+      "summary": "download files faster and for free",
+      "summaryByLang": {
+        "en": "download files faster and for free",
+        "ar": "حمل الملفات بسرعة  و سهولة مجانا"
+      },
+      "author": "abdelilah el-baroudi",
+      "license": "MIT",
+      "tags": [
+        "cli"
+      ],
+      "source": {
+        "type": "tarball",
+        "url": "https://github.com/abdelilah1223/packhouse-catalog/releases/download/packhouse-godownloader-v1.0.0/godownloader-1.0.0.tar.gz",
+        "sha256": "11d0520f8250d8758bf85dfc5c8ad88ea2842dbe5f1d6c90638c04a79b7d6383",
+        "approxSize": 8854
+      },
+      "install": {
+        "method": "package",
+        "pkexec": true
+      }
+    }
+  ]
+}
