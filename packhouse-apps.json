@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "name": "My Packhouse Apps",
+    "updated": "2026-11-19"
+  },
+  "apps": [
+    {
+      "id": "optimize-your-android",
+      "name": "optimize-your-android",
+      "version": "1.0.0",
+      "language": "wails",
+      "summary": "manage your phone using pc take a back up , look for hided file install unistall apps ...",
+      "summaryByLang": {
+        "en": "manage your phone using pc take a back up , look for hided file install unistall apps ...",
+        "ar": "قم بادارة هاتفك بسهولة عبر الحاسوب"
+      },
+      "author": "abdelilah el-baroudi",
+      "license": "MIT",
+      "tags": [
+        "desktop"
+      ],
+      "source": {
+        "type": "tarball",
+        "url": "https://raw.githubusercontent.com/abdelilah1223/packhouse-catalog/main/sources/optimize-your-android-1.0.0.tar.gz",
+        "sha256": "924ca31abc8859a6632c67c2fda3b741643e5e181322ae40a14a9161a01033f6",
+        "approxSize": 3784521
+      },
+      "install": {
+        "method": "package",
+        "pkexec": true
+      }
+    }
+  ]
+}
