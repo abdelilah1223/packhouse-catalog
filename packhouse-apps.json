@@ -22,8 +22,8 @@
       "source": {
         "type": "tarball",
         "url": "https://github.com/abdelilah1223/packhouse-catalog/releases/download/packhouse-godownloader-v1.0.0/godownloader-1.0.0.tar.gz",
-        "sha256": "11d0520f8250d8758bf85dfc5c8ad88ea2842dbe5f1d6c90638c04a79b7d6383",
-        "approxSize": 8854
+        "sha256": "d50f50cf74e7137222db3a47218390ee13639af31bb124254b226874b30acfac",
+        "approxSize": 129592629
       },
       "install": {
         "method": "package",
